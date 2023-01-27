@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerProvinoFoundation", "PerProvinoFoundation\PerProvinoFoundation.csproj", "{905940F1-11B1-4119-A834-EFCD5D30B714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905940F1-11B1-4119-A834-EFCD5D30B714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905940F1-11B1-4119-A834-EFCD5D30B714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905940F1-11B1-4119-A834-EFCD5D30B714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905940F1-11B1-4119-A834-EFCD5D30B714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE02F7DB-300B-4CF6-A9D5-DE4CCC910034}
+	EndGlobalSection
+EndGlobal
